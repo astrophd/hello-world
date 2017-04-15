@@ -1,2 +1,4 @@
 # hello-world
-My "Hello, World!" Repositiry
+My "Hello, World!" Repository
+
+This is my edit to the readme file.
